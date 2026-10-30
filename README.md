@@ -1,6 +1,6 @@
 ### Hi, I'm Peyton
 
-I'm a junior at BYU studying Strategic Management with a minor in Computer Science, and I run business development at [Scaling.com](https://scaling.com). I like building tools that fix problems I run into at work and in daily life, and I build most of them with AI coding tools like Claude Code.
+I'm a junior at BYU studying Strategic Management with a minor in Computer Science, and I lead growth at [Scaling.com](https://scaling.com), where we advise over 500 companies doing anywhere from $1M to $10B in revenue. I like building tools that fix problems I run into at work and in daily life, and I build most of them with AI coding tools like Claude Code.
 
 Before college I started a few small businesses. The biggest was Pristine Window Cleaning, a commercial window cleaning company I grew and then sold.
 
