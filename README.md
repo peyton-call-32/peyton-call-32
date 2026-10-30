@@ -8,7 +8,7 @@ This GitHub account is new as of fall 2026. I've been building for longer than i
 
 ### What I've built
 
-- **[Keynote CRM](https://github.com/peyton-call-32/keynote-crm)**. A CRM I built on my own to replace Monday.com for Scaling.com's business development team, with AI bots that find leads and reach out to them. The keynote booking effort it supports brought in over $100K in under six months. This is the public version with sample data.
+- **Scaling.com Dashboard**. A CRM and dashboard I built on my own to replace Monday.com for Scaling.com's business development team. It has a team of AI bots that find leads, reach out to them, and write a daily brief. The keynote booking effort it supports brought in over $100K in under six months. The code belongs to Scaling.com, so it isn't public.
 - **[Kinfolk](https://github.com/peyton-call-32/kinfolk)**. An iPhone app and home screen widget that shares a grandparent's life stories with their family, one short story a day.
 - **[Compass](https://github.com/peyton-call-32/compass)**. Gives each BYU student a short, personal plan of internships, events, clubs, and alumni worth their time, ranked with Claude.
 - **[Catch](https://github.com/peyton-call-32/catch)**. A mobile website that shows every FrontRunner and bus connection for a student's commute in one view, with a countdown to the next one.
