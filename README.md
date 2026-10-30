@@ -2,7 +2,7 @@
 
 I'm a junior at Brigham Young University studying Strategic Management with a minor in Computer Science, and I lead growth at [Scaling.com](https://scaling.com), where we advise over 500 companies doing anywhere from $1M to $10B in revenue. I like building tools that fix problems I run into at work and in daily life, and I build most of them with AI coding tools like Claude Code.
 
-Before college I started a few small businesses. The biggest was Pristine Window Cleaning, a commercial window cleaning company I grew and then sold.
+I've also started a few small businesses. The biggest was Pristine Window Cleaning, a commercial window cleaning company I grew and then sold. It ran on an AI-powered go-to-market motion I built specifically for the clients I was targeting.
 
 This GitHub account is new as of fall 2026. I've been building for longer than it shows, and my earlier projects lived on another account.
 
