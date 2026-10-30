@@ -9,6 +9,7 @@ This GitHub account is new as of fall 2026. I've been building for longer than i
 ### What I've built
 
 - **Scaling.com Dashboard**. A CRM and dashboard I built on my own to replace Monday.com for Scaling.com's business development team. It has a team of AI bots that find leads, reach out to them, and write a daily brief. The keynote booking effort it supports brought in over $100K in under six months. The code belongs to Scaling.com, so it isn't public.
+- **[Versed](https://github.com/peyton-call-32/versed)**. An iPhone app for reading scripture one verse at a time, like a short-video feed. It opens straight to this week's Come, Follow Me reading. In progress.
 - **[Kinfolk](https://github.com/peyton-call-32/kinfolk)**. An iPhone app and home screen widget that shares a grandparent's life stories with their family, one short story a day.
 - **[Compass](https://github.com/peyton-call-32/compass)**. Gives each BYU student a short, personal plan of internships, events, clubs, and alumni worth their time, ranked with Claude.
 - **[Catch](https://github.com/peyton-call-32/catch)**. A mobile website that shows every FrontRunner and bus connection for a student's commute in one view, with a countdown to the next one.
